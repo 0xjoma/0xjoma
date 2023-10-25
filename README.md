@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hello, I am Jomael Ortiz Perez, known in the digital community as `0xjoma`
 
-<!--
-**0xjoma/0xjoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I have always been captivated by the digital dance of ones and zeros. This passion led me to delve deep into cybersecurity, where I'm currently a student honing my skills. 
 
-Here are some ideas to get you started:
+🛡️ My ultimate goal? To create a safer online space for everyone. Driven by a passion for digital defense, I'm constantly exploring and deciphering the intricate world of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Outside the realm of binaries, I am a staunch advocate for knowledge sharing. I use my blog and X to chronicle my cybersecurity journey, share insights from my academic pursuits, and participate in discussions on the ever-evolving cybersecurity landscape.
+
+🔭 ## I’m currently working on:
+* My cybersecurity portflio/blog.
+* My B.S. Information Systems and Cybersecurity.
+* Leveling my skilss on Hack The Box.
+* Security+ certificiation.
+* Side projects to build my portfolio and skills.
+
+## I am cuurently learning:
+* Advanced Linux
+* Networks, VPNs, and Firewalls
+
+## How to reach me: 
+
+(https://img.shields.io/twitter/follow/0xjoma?label=Follow&style=social)](https://twitter.com/0xjoma)
+

@@ -22,4 +22,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jomael-ortiz-perez-1384ba27b/)
 
+## Checkout my Portfolio/Blog
+
 [![Blog Badge](https://img.shields.io/badge/Blog-Visit-brightgreen)](https://0xjoma.github.io/)

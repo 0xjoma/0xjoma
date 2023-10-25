@@ -18,6 +18,4 @@
 * Networks, VPNs, and Firewalls
 
 ## How to reach me: 
-
-(https://img.shields.io/twitter/follow/0xjoma?label=Follow&style=social)](https://twitter.com/0xjoma)
-
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xjoma)

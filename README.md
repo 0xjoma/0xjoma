@@ -1,19 +1,20 @@
 👋 Hello, I am Jomael Ortiz Perez, known in the digital community as `0xjoma`
 
-🔍 I have always been captivated by the digital dance of ones and zeros. This passion led me to delve deep into cybersecurity, where I'm currently a student honing my skills. 
+🔍 I have always been captivated by the digital dance of ones and zeros. This passion led me to delve deep into cybersecurity, where I am currently a student honing my skills. 
 
-🛡️ My ultimate goal? To create a safer online space for everyone. Driven by a passion for digital defense, I'm constantly exploring and deciphering the intricate world of cybersecurity.
+🛡️ My ultimate goal? To create a safer online space for everyone. Driven by a passion for digital defense, I am constantly exploring and deciphering the intricate world of cybersecurity.
 
 📚 Outside the realm of binaries, I am a staunch advocate for knowledge sharing. I use my blog and X to chronicle my cybersecurity journey, share insights from my academic pursuits, and participate in discussions on the ever-evolving cybersecurity landscape.
 
 ## I am currently working on:
 * Finalizing my B.S. Information Systems and Cybersecurity on December 2023
+* Next Academic Adventure; thrilled to announce that I have been accepted into the M.S. in Cybersecurity at the Univeristy of Wisconsin--La Crosse
 * Security+ certificiation
 * My cybersecurity portflio/blog
 * Leveling my skills on Hack The Box
 * Side projects to build my portfolio
 
-## I am cuurently learning:
+## I am curently learning:
 * Advanced Linux
 * Networks, VPNs, and Firewalls
 

@@ -18,7 +18,8 @@
 * Networks, VPNs, and Firewalls
 
 ## How to reach me: 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xjoma) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jomael-ortiz-perez-1384ba27b/)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xjoma) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jomael-ortiz-perez-1384ba27b/)
 
 ## Checkout my Portfolio/Blog
 

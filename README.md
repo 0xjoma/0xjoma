@@ -10,7 +10,7 @@
 * Finalizing my B.S. Information Systems and Cybersecurity on December 2023
 * Next Academic Adventure; thrilled to announce that I have been accepted into the M.S. in Cybersecurity at the Univeristy of Wisconsin--La Crosse
 * Security+ certificiation
-* My Cybersecurity portflio/blog
+* My Cybersecurity portfolio/blog
 * Leveling my skills on Hack The Box
 * Side projects to build my portfolio
 

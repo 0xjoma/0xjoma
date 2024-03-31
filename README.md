@@ -7,7 +7,6 @@
 ## I am currently working on:
 * Next Academic Adventure; thrilled to announce that I have been accepted into the M.S. in Cybersecurity at the Univeristy of Wisconsin--La Crosse
 * Security+ certification
-* Leveling my skills on Hack The Box
 * Side projects to build my portfolio
 
 ## I am curently learning:

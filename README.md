@@ -1,21 +1,24 @@
-👋 Hello, I am Jomael Ortiz Perez, known in the digital community as `0xjoma`
+**Jomael Ortiz Perez (@0xjoma)**
 
-🔍 I am Active military member currently pursuing a M.S. in Cybersecurity at the University of Wisconsin-La Crosse, with a background in Information Systems and Cybersecurity, committed to strengthening digital defenses and fostering knowledge sharing in the dynamic field of cybersecurity.
+Hi there! I'm Jomael, an active military member passionate about cybersecurity and information systems.
 
-📚 I am a staunch advocate for knowledge sharing. I use my blog and X to chronicle my cybersecurity journey, share insights from my academic pursuits, and participate in discussions on the ever-evolving cybersecurity landscape.
+## About Me
 
-## I am currently working on:
-* Next Academic Adventure; thrilled to announce that I have been accepted into the M.S. in Cybersecurity at the Univeristy of Wisconsin--La Crosse
-* Security+ certification
-* Side projects to build my portfolio
+* Currently pursuing an M.S. in Cybersecurity at the University of Wisconsin-La Crosse
+* Background in Information Systems and Cybersecurity
+* Enthusiastic about learning and sharing knowledge in the cybersecurity field
 
-## I am curently learning:
-* Encryption
+## Connect & Learn
 
-## How to reach me: 
+* Check out my blog for insights on my cybersecurity journey
+* Follow me on X (Twitter) for discussions on the latest in cybersecurity
+* Feel free to reach out if you want to chat about cybersecurity, share ideas, or collaborate on projects!
+
+## How to Reach Me: 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xjoma) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jomael-ortiz-perez-1384ba27b/)
 
-## Checkout my Blog
+## Checkout my Blog and CV
 
 [![Blog Badge](https://img.shields.io/badge/Blog-Visit-brightgreen)](https://0xjoma.github.io/)
+[![Blog Badge](https://img.shields.io/badge/CV-Visit-brightgreen)](https://jomaelortizperez.com//)

@@ -14,7 +14,8 @@ Hi there! I'm Jomael, an active military member passionate about cybersecurity a
 * Follow me on X (Twitter) for discussions on the latest in cybersecurity
 * Feel free to reach out if you want to chat about cybersecurity, share ideas, or collaborate on projects!
 
-## How to Reach Me: 
+## How to Reach Me:
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xjoma) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jomael-ortiz-perez-1384ba27b/)
 

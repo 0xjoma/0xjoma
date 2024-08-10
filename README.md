@@ -22,4 +22,4 @@ Hi there! I'm Jomael, an active military member passionate about cybersecurity a
 ## Checkout my Blog and CV
 
 [![Blog Badge](https://img.shields.io/badge/Blog-Visit-brightgreen)](https://0xjoma.github.io/)
-[![Blog Badge](https://img.shields.io/badge/CV-Visit-brightgreen)](https://jomaelortizperez.com//)
+[![Blog Badge](https://img.shields.io/badge/cv-Visit-brightgreen)](https://jomaelortizperez.com//)

@@ -10,7 +10,6 @@ Hi there! I'm Jomael, an active military member passionate about cybersecurity a
 
 ## Connect & Learn
 
-* Check out my blog for insights on my cybersecurity journey
 * Follow me on X (Twitter) for discussions on the latest in cybersecurity
 * Feel free to reach out if you want to chat about cybersecurity, share ideas, or collaborate on projects!
 
@@ -19,7 +18,6 @@ Hi there! I'm Jomael, an active military member passionate about cybersecurity a
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xjoma) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jomael-ortiz-perez-1384ba27b/)
 
-## Checkout my Blog and CV
+## Checkout my CV
 
-[![Blog Badge](https://img.shields.io/badge/Blog-Visit-brightgreen)](https://0xjoma.github.io/)
 [![Blog Badge](https://img.shields.io/badge/cv-Visit-brightgreen)](https://jomaelortizperez.com//)

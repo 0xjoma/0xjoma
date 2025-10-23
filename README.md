@@ -6,7 +6,7 @@ Hi there! I'm Jomael, an active military member passionate about cybersecurity, 
 
 * Currently pursuing an M.S. in Cybersecurity at the University of Wisconsin-La Crosse
 * Background in Information Systems and Cybersecurity
-* Enthusiastic about learning and sharing knowledge in the cybersecurity field
+* Enthusiastic about learning and sharing knowledge
 
 ## Connect
 

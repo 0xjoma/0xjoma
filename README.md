@@ -1,6 +1,6 @@
 **Jomael Ortiz Perez (@0xjoma)**
 
-Hi there! I'm Jomael, an active military member passionate about cybersecurity, information systems and blockchain.
+Hi there! I'm Joma, an active military member passionate about cybersecurity, information systems and blockchain.
 
 ## About Me
 
@@ -10,7 +10,7 @@ Hi there! I'm Jomael, an active military member passionate about cybersecurity, 
 
 ## Connect
 
-* Feel free to reach out if you want to chat about cybersecurity, share ideas, or collaborate on projects!
+* Feel free to reach out if you want to chat about blockchain, cybersecurity, share ideas, or collaborate on projects!
 
 ## How to Reach Me:
 

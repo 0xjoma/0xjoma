@@ -1,16 +1,6 @@
 **Jomael Ortiz Perez (@0xjoma)**
 
-Hi there! I'm Joma, an active military member passionate about cybersecurity, information systems and blockchain.
-
-## About Me
-
-* Currently pursuing an M.S. in Cybersecurity at the University of Wisconsin-La Crosse
-* Background in Information Systems and Cybersecurity
-* Enthusiastic about learning and sharing knowledge
-
-## Connect
-
-* Feel free to reach out if you want to chat about blockchain, cybersecurity, share ideas, or collaborate on projects!
+Hi there! I'm Joma, an active military member passionate about cybersecurity, information systems AI and blockchain.
 
 ## How to Reach Me:
 
